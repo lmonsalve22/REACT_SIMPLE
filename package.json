@@ -2,6 +2,7 @@
   "name": "react-notes-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://lmonsalve22.github.io/REACT_SIMPLE/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
